@@ -12,6 +12,6 @@
 
 
 #  流程:
-1.在testing tool輸入自己的IP，並輸入test message，再按下Send test message to server將訊息傳至server
-2.在server輸入自己的IP，按下Check test message會將產出測試結果，再按下Send response message將測試結果回傳至testing tool
-3.在testing tool按下Get response message即得到測試結果(Successful/Unsuccesful))
+## 1.在testing tool輸入自己的IP，並輸入test message，再按下Send test message to server將訊息傳至server
+## 2.在server輸入自己的IP，按下Check test message會將產出測試結果，再按下Send response message將測試結果回傳至testing tool
+## 3.在testing tool按下Get response message即得到測試結果(Successful/Unsuccesful))
